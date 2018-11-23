@@ -1,6 +1,6 @@
 # qtCyberDIP_C17
 
-### This project is a course project for SJTU Science and Technology Innovation III-F
+### This project is a course project for Fundammentals of Digital Image Processing
 
 ![CyberDIP](/pic/CyberDIP.png)
 
