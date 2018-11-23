@@ -4,8 +4,10 @@
 
 [CyberDIP](https://github.com/LostXine/qtCyberDIP) is developed by LostXine.
 
-We use CyberDIP platform to develop a program that can automatically play jigsaw puzzle on smart phone or pad.
+We develop the program based on CyberDIP that can automatically play jigsaw puzzle on smart phone or pad.
+
 ![Test1](/pic/test1.png)
+
 ![Test2](/pic/test2.jpg)
 
 
@@ -35,11 +37,11 @@ qtCyberDIP contains 4 + 1 parts:
 * Install git for windows
 * Clone this project using script below at git bash:
 ```
-git clone https://github.com/LostXine/qtCyberDIP.git
+git clone https://github.com/ballballu/qtCyberDIP_C17.git
 ```
 * (If necessary)Install Driver for CH340 Chipset after CyberDIP connected. ([Driver](/CH340) is included)
 * Add '3rdparty/x64' (Default, if you are using 32-bit OS, add '3rdparty/x86') into Environment Variable 'Path' (__ATTENTION! NEVER CLEAN 'Path'__, unless you are exactly conscious of the consequence)
 * Open [qtCyberDip.sln](/qtCyberDip.sln) in Visual Studio and follow the instructions in [stdafx.h](qtCyberDip/stdafx.h)
-* Screenshot of origin image of jigsaw should be got first and renamed as 'source_image_X.png' (X means the order that the jigsaw shows in the app). All these origin should be put in qtCyberDip folder.
+* Screenshot of origin image of jigsaw should be got first and renamed as 'source_image_X.png' (X means the order that the jigsaw shows in the app). All these origin should be put in [qtCyberDip](qtCyberDip) folder.
 
 
