@@ -1,5 +1,9 @@
 # qtCyberDIP_C17
+
+### This project is a course project for SJTU Science and Technology Innovation III-F
+
 ![CyberDIP](/pic/CyberDIP.png)
+
 
 
 [CyberDIP](https://github.com/LostXine/qtCyberDIP) is developed by LostXine.
