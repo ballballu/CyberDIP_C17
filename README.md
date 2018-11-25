@@ -10,6 +10,8 @@
 
 We develop the program based on CyberDIP that can automatically play jigsaw puzzle on smart phone or pad.
 
+Please click [here](https://ballballu.github.io/qtCyberDIP_C17/v_jigsaw_puzzle.html) for demo video.
+
 ![Test1](/pic/test1.png)
 
 ![Test2](/pic/test2.jpg)
